@@ -58,6 +58,10 @@ Requires `openscad` (manifold backend) and ImageMagick (`magick`).
 
 ## Credits
 
-Based on
+Inspired by
 [Drawer front spacer 4mm melamine 18mm](https://makerworld.com/en/models/2950038-drawer-front-spacer-4mm-melamine-18mm)
 on MakerWorld.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
