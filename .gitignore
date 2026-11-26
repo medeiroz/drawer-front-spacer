@@ -1,0 +1,11 @@
+.DS_Store
+
+# OpenSCAD outputs
+*.stl
+*.3mf
+*.csg
+*.bak
+
+# local notes and drafts
+makerworld/PUBLISHING.md
+previa_separadores.png
