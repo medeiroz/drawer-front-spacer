@@ -4,6 +4,9 @@ Parametric drawer front spacer jig written in OpenSCAD. It keeps an even gap
 between stacked drawer fronts while you install them. Single self-contained file,
 no external libraries. All dimensions in millimetres.
 
+**[Get it on MakerWorld](https://makerworld.com/en/models/3695410-customizable-drawer-front-spacer-jig)**
+and use the *Customize* button to generate your own sizes in the browser.
+
 ![Printed side pieces and center piece](photos/cover.jpg)
 
 ## Pieces
